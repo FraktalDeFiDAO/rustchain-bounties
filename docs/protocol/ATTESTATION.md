@@ -1,7 +1,7 @@
-# Proof-of-Attestation & Hardware Fingerprinting
+# Proof-of-Antiquity & Hardware Fingerprinting
 
 ## Overview
-Proof-of-Attestation (PoA) is the core security layer of RustChain. It ensures that every participating miner is a unique, physical piece of hardware. This is achieved through a multi-layered fingerprinting system that detects Virtual Machines (VMs), containers, and hardware emulation.
+Proof-of-Antiquity (PoA) is the core security layer of RustChain. It ensures that every participating miner is a unique, physical piece of hardware. This is achieved through a multi-layered fingerprinting system that detects Virtual Machines (VMs), containers, and hardware emulation.
 
 ## The Attestation Lifecycle
 

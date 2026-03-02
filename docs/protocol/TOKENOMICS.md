@@ -1,7 +1,7 @@
 # Token Economics & Antiquity Multipliers
 
 ## RTC Token Distribution
-The native token of RustChain is **RTC (RustChain Token)**. It is distributed via Proof-of-Attestation (PoA) rewards at the end of every **Epoch** (approximately every 10 minutes, or 144 blocks per day).
+The native token of RustChain is **RTC (RustChain Token)**. It is distributed via Proof-of-Antiquity (PoA) rewards at the end of every **Epoch** (approximately every 10 minutes, or 144 blocks per day).
 
 ## Reward Calculation Model
 Rewards are calculated proportionally based on a miner's **Attestation Weight** relative to the total weight of all enrolled miners in that epoch.

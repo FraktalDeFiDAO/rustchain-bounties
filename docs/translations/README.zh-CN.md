@@ -131,7 +131,7 @@ curl -sk "https://50.28.86.131/wallet/balance?miner_id=YOUR_WALLET_ID"
 
 ## RustChain 简介
 
-RustChain 采用 **RIP-200 Proof-of-Attestation** 共识：
+RustChain 采用 **RIP-200 Proof-of-Antiquity** 共识：
 
 - **1 CPU = 1 票**（无 GPU/ASIC 优势）
 - **硬件指纹**（仅真实硬件有效，虚拟机收益为 0）

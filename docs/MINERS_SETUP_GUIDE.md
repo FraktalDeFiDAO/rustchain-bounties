@@ -1,6 +1,6 @@
 # RustChain Miner Setup Guide
 
-Step-by-step guide to run a RustChain miner on real hardware (RIP-200 Proof of Attestation).
+Step-by-step guide to run a RustChain miner on real hardware (RIP-200 Proof of Antiquity).
 
 ## Prerequisites
 

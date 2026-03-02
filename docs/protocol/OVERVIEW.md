@@ -11,7 +11,7 @@ In RustChain, "antiquity" refers to the historical and preservation value of com
 2. **Prevent Hardware Centralization**: By penalizing cheap, mass-produced modern hardware (like ARM SBC clusters) and completely barring Virtual Machines, RustChain ensures a fair distribution based on unique physical devices.
 3. **Proof of Physical Presence**: Using 6+1 hardware fingerprint checks to ensure that miners are running on real, documented hardware rather than emulators.
 
-## Consensus Mechanism: Proof-of-Attestation (PoA)
+## Consensus Mechanism: Proof-of-Antiquity (PoA)
 RustChain does not require energy-intensive hashing. Instead, miners participate in "Attestation Cycles":
 
 1. **Challenge**: The miner requests a unique nonce from the node.
